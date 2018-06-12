@@ -1,7 +1,7 @@
 # Search app
 
 Description:
-1) Made using Javascript/ jQuery which using AJAX
+1) Dynamic search using Asynchronized Javascript/ jQuery
 
 Set up:
 1) I have used a Node server. For setting up a node server:
